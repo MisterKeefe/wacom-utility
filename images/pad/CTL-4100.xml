@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<padsettings graphicwidth="165">
+	<button name="Button 1" number="1" callsign="Button 1">
+		<x1>10</x1>
+		<y1>10</y1>
+		<x2>60</x2>
+		<y2>40</y2>
+	</button>
+	<button name="Button 2" number="2" callsign="Button 2">
+		<x1>70</x1>
+		<y1>10</y1>
+		<x2>120</x2>
+		<y2>40</y2>
+	</button>
+	<button name="Button 3" number="3" callsign="Button 3">
+		<x1>130</x1>
+		<y1>10</y1>
+		<x2>180</x2>
+		<y2>40</y2>
+	</button>
+	<button name="Button 8" number="8" callsign="Button 8">
+		<x1>190</x1>
+		<y1>10</y1>
+		<x2>240</x2>
+		<y2>40</y2>
+	</button>
+</padsettings>
